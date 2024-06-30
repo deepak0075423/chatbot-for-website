@@ -3,16 +3,17 @@
 Welcome to my website chatbot project! This chatbot is designed to provide quick and interactive responses to user queries, enhancing the user experience on websites. The chatbot is developed using Python.
 
 ## Table of Contents
-Introduction
-Features
-Technologies Used
-Setup and Installation
-Usage
-Configuration
-Contributing
+- Introduction
+- Features
+- Technologies Used
+- Setup and Installation
+- Usage
+- Configuration
+- Contributing
 
 ## Introduction
-This chatbot project aims to provide an interactive and efficient way to handle user queries on websites. It can be easily integrated into any website to improve user engagement and support.
+This chatbot project aims to provide an interactive and efficient way to handle user queries 
+on websites. It can be easily integrated into any website to improve user engagement and support.
 
 ## Features
 Interactive Responses: Provides instant and relevant responses to user queries.
@@ -34,8 +35,8 @@ git clone https://github.com/deepak0075423/chatbot-for-website.git
 cd chatbot-for-website
 
 #### Create a virtual environment and activate it:
-python3 -m venv venv
-source venv/bin/activate
+- python3 -m venv venv
+- source venv/bin/activate
 
 #### Install the required packages:
 pip install -r requirements.txt
@@ -56,7 +57,7 @@ Start the streamlit server and interact with the chatbot on your website.
 If you'd like to contribute to this project, please follow these steps:
 
 ## Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a Pull Request.
+- Create a new branch (git checkout -b feature/YourFeature).
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature/YourFeature).
+- Open a Pull Request.
